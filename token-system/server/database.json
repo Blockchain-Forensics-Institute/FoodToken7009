@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Mihir",
+      "email": "mihir29062001@gmail.com",
+      "phone": "9631997254",
+      "tokens": 1,
+      "qrCodePath": "/Users/doctorranjan/Desktop/token-system/server/qr_codes/9631997254.png"
+    },
+    {
+      "name": "milind",
+      "email": "menkadevi107@gmail.com",
+      "phone": "9939392775",
+      "tokens": 2,
+      "qrCodePath": "/Users/doctorranjan/Desktop/token-system/server/qr_codes/9939392775.png"
+    }
+  ]
+}
