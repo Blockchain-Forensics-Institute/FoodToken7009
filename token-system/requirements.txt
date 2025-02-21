@@ -1,0 +1,15 @@
+streamlit
+requests
+qrcode
+opencv-python
+pyzbar
+Pillow
+flask
+flask-cors
+express
+cors
+body-parser
+qrcode
+fs
+openzeppelin-solidity
+solc
